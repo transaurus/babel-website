@@ -6,7 +6,7 @@
     "clear": "docusaurus clear",
     "build": "docusaurus build",
     "deploy": "docusaurus publish",
-    "write-translations": "docusaurus-write-translations",
+    "write-translations": "docusaurus write-translations",
     "serve": "docusaurus serve"
   },
   "version": "0.0.0"
